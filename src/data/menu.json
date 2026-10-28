@@ -1,0 +1,517 @@
+{
+  "berlaku": "1 Januari 2026",
+  "kategori": [
+    {
+      "id": "nasi",
+      "nama": "Nasi AG & Ayam",
+      "jenis": "makanan",
+      "items": [
+        {
+          "id": "nasi-ag-spesial",
+          "nama": "Nasi AG Spesial",
+          "harga": 12000,
+          "bestSeller": 1,
+          "deskripsi": "Andalan sejuta umat AG. Murah, kenyang, nagih."
+        },
+        {
+          "id": "nasi-ag-keju-parut",
+          "nama": "Nasi AG Keju Parut",
+          "harga": 15000
+        },
+        {
+          "id": "nasi-ag-keju-meleleh",
+          "nama": "Nasi AG Keju Meleleh",
+          "harga": 17000
+        },
+        {
+          "id": "nasi-ag-telur",
+          "nama": "Nasi AG Telur",
+          "harga": 15000
+        },
+        {
+          "id": "nasi-ag-tempe",
+          "nama": "Nasi AG Tempe",
+          "harga": 14000
+        },
+        {
+          "id": "nasi-ag-tahu",
+          "nama": "Nasi AG Tahu",
+          "harga": 14000
+        },
+        {
+          "id": "nasi-ag-tahu-tempe",
+          "nama": "Nasi AG Tahu Tempe",
+          "harga": 15000
+        },
+        {
+          "id": "nasi-ag-telur-tahu",
+          "nama": "Nasi AG Telur Tahu",
+          "harga": 17000
+        },
+        {
+          "id": "nasi-ag-komplit",
+          "nama": "Nasi AG Komplit",
+          "harga": 19000
+        },
+        {
+          "id": "nasi-ag-jumbo",
+          "nama": "Nasi AG Jumbo",
+          "harga": 18000,
+          "bestSeller": 2,
+          "deskripsi": "Buat yang laparnya level dewa. Porsi jumbo, harga tetap ramah."
+        },
+        {
+          "id": "nasi-ag-jumbo-plus-keju",
+          "nama": "Nasi AG Jumbo + Keju",
+          "harga": 20000
+        },
+        {
+          "id": "nasi-ag-kids",
+          "nama": "Nasi AG Kid's",
+          "harga": 9000,
+          "bestSeller": 5,
+          "deskripsi": "Porsi mini harga 9K. Hemat banget buat akhir bulan."
+        },
+        {
+          "id": "nasi-sayap-geprek",
+          "nama": "Nasi Sayap Geprek",
+          "harga": 12000
+        },
+        {
+          "id": "nasi-tempe-geprek",
+          "nama": "Nasi Tempe Geprek",
+          "harga": 9000
+        },
+        {
+          "id": "nasi-telur-geprek",
+          "nama": "Nasi Telur Geprek",
+          "harga": 9000
+        },
+        {
+          "id": "nasi-tahu-geprek",
+          "nama": "Nasi Tahu Geprek",
+          "harga": 9000
+        },
+        {
+          "id": "nasi-nugget-geprek",
+          "nama": "Nasi Nugget Geprek",
+          "harga": 12000
+        },
+        {
+          "id": "nasi-nugget-telur-geprek",
+          "nama": "Nasi Nugget Telur Geprek",
+          "harga": 15000
+        },
+        {
+          "id": "nasi-ayam-gepuk-sambal-tomat",
+          "nama": "Nasi Ayam Gepuk Sambal Tomat",
+          "harga": 18000
+        },
+        {
+          "id": "nasi-ayam-gepuk-sambal-bawang",
+          "nama": "Nasi Ayam Gepuk Sambal Bawang",
+          "harga": 18000
+        },
+        {
+          "id": "nasi-ayam-gepuk-sambal-hijau",
+          "nama": "Nasi Ayam Gepuk Sambal Hijau",
+          "harga": 18000
+        },
+        {
+          "id": "nasi-ayam-gepuk-sambal-terasi",
+          "nama": "Nasi Ayam Gepuk Sambal Terasi",
+          "harga": 18000
+        },
+        {
+          "id": "nasi-ayam-crispy-saus-bbq",
+          "nama": "Nasi Ayam Crispy Saus BBQ",
+          "harga": 17000
+        },
+        {
+          "id": "nasi-ayam-saus-hot-spicy",
+          "nama": "Nasi Ayam Saus Hot Spicy",
+          "harga": 17000,
+          "bestSeller": 3,
+          "deskripsi": "Saus hot spicy-nya bikin melek. Cocok buat yang suka tantangan."
+        },
+        {
+          "id": "nasi-sayap-saus-hot-spicy",
+          "nama": "Nasi Sayap Saus Hot Spicy",
+          "harga": 17000
+        },
+        {
+          "id": "nasi-lele-penyet",
+          "nama": "Nasi Lele Penyet",
+          "harga": 15000
+        },
+        {
+          "id": "nasi-ayam-kremes",
+          "nama": "Nasi Ayam Kremes",
+          "harga": 18000
+        },
+        {
+          "id": "sayap-crispy-saus-sambal",
+          "nama": "Sayap Crispy Saus Sambal",
+          "harga": 10000
+        },
+        {
+          "id": "sayap-crispy-saus-tomat",
+          "nama": "Sayap Crispy Saus Tomat",
+          "harga": 10000
+        }
+      ]
+    },
+    {
+      "id": "mie",
+      "nama": "Aneka Mie",
+      "jenis": "makanan",
+      "items": [
+        {
+          "id": "indomie-ag-keju-meleleh",
+          "nama": "Indomie AG Keju Meleleh",
+          "harga": 18000,
+          "bestSeller": 4,
+          "deskripsi": "Indomie + ayam geprek + keju lumer. Comfort food anak kos."
+        },
+        {
+          "id": "indomie-ayam-geprek",
+          "nama": "Indomie Ayam Geprek",
+          "harga": 14000
+        },
+        {
+          "id": "indomie-ayam-geprek-telur",
+          "nama": "Indomie Ayam Geprek Telur",
+          "harga": 17000
+        },
+        {
+          "id": "indomie-ayam-geprek-bakso",
+          "nama": "Indomie Ayam Geprek Bakso",
+          "harga": 17000
+        },
+        {
+          "id": "indomie-ayam-geprek-sosis",
+          "nama": "Indomie Ayam Geprek Sosis",
+          "harga": 17000
+        },
+        {
+          "id": "indomie-solur-bakso-telur",
+          "nama": "Indomie Solur (Bakso Telur)",
+          "harga": 12000
+        },
+        {
+          "id": "indomie-rebus-ori",
+          "nama": "Indomie Rebus Ori",
+          "harga": 5000
+        },
+        {
+          "id": "indomie-goreng-ori",
+          "nama": "Indomie Goreng Ori",
+          "harga": 6000
+        },
+        {
+          "id": "indomie-goreng-telur",
+          "nama": "Indomie Goreng Telur",
+          "harga": 9000
+        },
+        {
+          "id": "indomie-goreng-pedas-level-1",
+          "nama": "Indomie Goreng Pedas Level 1",
+          "harga": 7000,
+          "levelPedas": 1
+        },
+        {
+          "id": "indomie-goreng-pedas-level-2",
+          "nama": "Indomie Goreng Pedas Level 2",
+          "harga": 8000,
+          "levelPedas": 2
+        },
+        {
+          "id": "indomie-goreng-pedas-level-3",
+          "nama": "Indomie Goreng Pedas Level 3",
+          "harga": 9000,
+          "levelPedas": 3
+        },
+        {
+          "id": "indomie-goreng-pedas-level-4",
+          "nama": "Indomie Goreng Pedas Level 4",
+          "harga": 10000,
+          "levelPedas": 4
+        },
+        {
+          "id": "indomie-goreng-pedas-level-5",
+          "nama": "Indomie Goreng Pedas Level 5",
+          "harga": 11000,
+          "levelPedas": 5
+        }
+      ]
+    },
+    {
+      "id": "snack",
+      "nama": "Snack",
+      "jenis": "snack",
+      "items": [
+        {
+          "id": "donat-bomboloni",
+          "nama": "Donat Bomboloni",
+          "harga": 10000
+        },
+        {
+          "id": "kebab-mini-pedas",
+          "nama": "Kebab Mini Pedas",
+          "harga": 10000
+        },
+        {
+          "id": "cireng-bumbu-rujak",
+          "nama": "Cireng Bumbu Rujak",
+          "harga": 8000
+        },
+        {
+          "id": "brexcella-pisang-lumer",
+          "nama": "Brexcella Pisang Lumer",
+          "harga": 9000
+        },
+        {
+          "id": "brexcella-pisang-topping-keju",
+          "nama": "Brexcella Pisang Topping Keju",
+          "harga": 12000
+        },
+        {
+          "id": "dunia-sosis",
+          "nama": "Dunia Sosis",
+          "harga": 7000
+        },
+        {
+          "id": "kentang-goreng",
+          "nama": "Kentang Goreng",
+          "harga": 7000
+        },
+        {
+          "id": "donat-kentang",
+          "nama": "Donat Kentang",
+          "harga": 7000
+        }
+      ]
+    },
+    {
+      "id": "ice-juice",
+      "nama": "Ice Juice",
+      "jenis": "minuman",
+      "items": [
+        {
+          "id": "buah-naga",
+          "nama": "Buah Naga",
+          "harga": 12000
+        },
+        {
+          "id": "avocado",
+          "nama": "Avocado",
+          "harga": 12000
+        },
+        {
+          "id": "strawberry",
+          "nama": "Strawberry",
+          "harga": 8000
+        },
+        {
+          "id": "mangga",
+          "nama": "Mangga",
+          "harga": 8000
+        },
+        {
+          "id": "wortel",
+          "nama": "Wortel",
+          "harga": 7000
+        },
+        {
+          "id": "nanas",
+          "nama": "Nanas",
+          "harga": 7000
+        },
+        {
+          "id": "melon",
+          "nama": "Melon",
+          "harga": 7000
+        },
+        {
+          "id": "jambu-biji",
+          "nama": "Jambu Biji",
+          "harga": 7000
+        },
+        {
+          "id": "timun",
+          "nama": "Timun",
+          "harga": 7000
+        }
+      ]
+    },
+    {
+      "id": "minuman",
+      "nama": "Minuman",
+      "jenis": "minuman",
+      "items": [
+        {
+          "id": "hot-coffee",
+          "nama": "Hot Coffee",
+          "harga": 5000
+        },
+        {
+          "id": "kopi-susu",
+          "nama": "Kopi Susu",
+          "harga": 6000
+        },
+        {
+          "id": "luwak-white",
+          "nama": "Luwak White",
+          "harga": 6000
+        },
+        {
+          "id": "hot-chocolate",
+          "nama": "Hot Chocolate",
+          "harga": 5000
+        },
+        {
+          "id": "ice-tea",
+          "nama": "Ice Tea",
+          "harga": 4000
+        },
+        {
+          "id": "nutrisari-orange-tea",
+          "nama": "Nutrisari Orange Tea",
+          "harga": 4000
+        },
+        {
+          "id": "ice-lhecy-tea",
+          "nama": "Ice Lhecy Tea",
+          "harga": 4000
+        },
+        {
+          "id": "ice-lemon-tea",
+          "nama": "Ice Lemon Tea",
+          "harga": 4000
+        },
+        {
+          "id": "nutrisari-jeruk-nipis",
+          "nama": "Nutrisari Jeruk Nipis",
+          "harga": 4000
+        },
+        {
+          "id": "nutrisari-jeruk-manis",
+          "nama": "Nutrisari Jeruk Manis",
+          "harga": 4000
+        },
+        {
+          "id": "nutrisari-es-kuwut",
+          "nama": "Nutrisari Es Kuwut",
+          "harga": 4000
+        },
+        {
+          "id": "chocolate-milo",
+          "nama": "Chocolate Milo",
+          "harga": 7000
+        },
+        {
+          "id": "chocolate-chocolatos",
+          "nama": "Chocolate Chocolatos",
+          "harga": 7000
+        },
+        {
+          "id": "chocolate-beng-beng",
+          "nama": "Chocolate Beng Beng",
+          "harga": 7000
+        },
+        {
+          "id": "matcha-milk",
+          "nama": "Matcha Milk",
+          "harga": 8000
+        },
+        {
+          "id": "avocado-milk",
+          "nama": "Avocado Milk",
+          "harga": 8000
+        },
+        {
+          "id": "taro-milk",
+          "nama": "Taro Milk",
+          "harga": 8000
+        },
+        {
+          "id": "red-velvet",
+          "nama": "Red Velvet",
+          "harga": 8000
+        },
+        {
+          "id": "tiramisu",
+          "nama": "Tiramisu",
+          "harga": 8000
+        },
+        {
+          "id": "bubble-gum",
+          "nama": "Bubble Gum",
+          "harga": 8000
+        },
+        {
+          "id": "durian-milk",
+          "nama": "Durian Milk",
+          "harga": 8000
+        },
+        {
+          "id": "oreo",
+          "nama": "Oreo",
+          "harga": 8000
+        },
+        {
+          "id": "black-current",
+          "nama": "Black Current",
+          "harga": 8000
+        },
+        {
+          "id": "thai-tea",
+          "nama": "Thai Tea",
+          "harga": 8000
+        }
+      ]
+    },
+    {
+      "id": "topping",
+      "nama": "Topping",
+      "jenis": "topping",
+      "items": [
+        {
+          "id": "tahu",
+          "nama": "Tahu",
+          "harga": 4000
+        },
+        {
+          "id": "tempe",
+          "nama": "Tempe",
+          "harga": 4000
+        },
+        {
+          "id": "lalapan",
+          "nama": "Lalapan",
+          "harga": 4000
+        },
+        {
+          "id": "nasi",
+          "nama": "Nasi",
+          "harga": 5000
+        },
+        {
+          "id": "sambal-bawang",
+          "nama": "Sambal Bawang",
+          "harga": 4000
+        },
+        {
+          "id": "sambal-tomat",
+          "nama": "Sambal Tomat",
+          "harga": 5000
+        },
+        {
+          "id": "sambal-terasi",
+          "nama": "Sambal Terasi",
+          "harga": 5000
+        }
+      ]
+    }
+  ]
+}
