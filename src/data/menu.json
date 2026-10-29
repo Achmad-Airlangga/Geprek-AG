@@ -78,14 +78,14 @@
         {
           "id": "nasi-ag-jumbo",
           "nama": "Nasi AG Jumbo",
-          "harga": 18000,
+          "harga": 20000,
           "bestSeller": 2,
           "deskripsi": "Buat yang laparnya level dewa. Porsi jumbo, harga tetap ramah."
         },
         {
           "id": "nasi-ag-jumbo-keju-parut",
           "nama": "Nasi AG Jumbo Keju Parut",
-          "harga": 20000
+          "harga": 22000
         },
         {
           "id": "nasi-sayap-geprek",
