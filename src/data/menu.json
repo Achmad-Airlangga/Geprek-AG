@@ -7,6 +7,23 @@
       "jenis": "makanan",
       "items": [
         {
+          "id": "nasi-tempe-penyet-jumbo",
+          "nama": "Nasi Tempe Penyet Jumbo",
+          "harga": 10000
+        },
+        {
+          "id": "nasi-ayam-crispy-balado",
+          "nama": "Nasi Ayam Crispy Balado",
+          "harga": 16000
+        },
+        {
+          "id": "nasi-ag-kids",
+          "nama": "Nasi AG Kid's",
+          "harga": 9000,
+          "bestSeller": 5,
+          "deskripsi": "Porsi mini harga 9K. Hemat banget buat akhir bulan."
+        },
+        {
           "id": "nasi-ag-spesial",
           "nama": "Nasi AG Spesial",
           "harga": 12000,
@@ -49,6 +66,11 @@
           "harga": 17000
         },
         {
+          "id": "nasi-ag-telur-tempe",
+          "nama": "Nasi AG Telur Tempe",
+          "harga": 17000
+        },
+        {
           "id": "nasi-ag-komplit",
           "nama": "Nasi AG Komplit",
           "harga": 19000
@@ -61,16 +83,9 @@
           "deskripsi": "Buat yang laparnya level dewa. Porsi jumbo, harga tetap ramah."
         },
         {
-          "id": "nasi-ag-jumbo-plus-keju",
-          "nama": "Nasi AG Jumbo + Keju",
+          "id": "nasi-ag-jumbo-keju-parut",
+          "nama": "Nasi AG Jumbo Keju Parut",
           "harga": 20000
-        },
-        {
-          "id": "nasi-ag-kids",
-          "nama": "Nasi AG Kid's",
-          "harga": 9000,
-          "bestSeller": 5,
-          "deskripsi": "Porsi mini harga 9K. Hemat banget buat akhir bulan."
         },
         {
           "id": "nasi-sayap-geprek",
@@ -80,11 +95,6 @@
         {
           "id": "nasi-tempe-geprek",
           "nama": "Nasi Tempe Geprek",
-          "harga": 9000
-        },
-        {
-          "id": "nasi-telur-geprek",
-          "nama": "Nasi Telur Geprek",
           "harga": 9000
         },
         {
@@ -103,18 +113,13 @@
           "harga": 15000
         },
         {
-          "id": "nasi-ayam-gepuk-sambal-tomat",
-          "nama": "Nasi Ayam Gepuk Sambal Tomat",
-          "harga": 18000
-        },
-        {
           "id": "nasi-ayam-gepuk-sambal-bawang",
           "nama": "Nasi Ayam Gepuk Sambal Bawang",
           "harga": 18000
         },
         {
-          "id": "nasi-ayam-gepuk-sambal-hijau",
-          "nama": "Nasi Ayam Gepuk Sambal Hijau",
+          "id": "nasi-ayam-gepuk-sambal-tomat",
+          "nama": "Nasi Ayam Gepuk Sambal Tomat",
           "harga": 18000
         },
         {
@@ -128,8 +133,8 @@
           "harga": 17000
         },
         {
-          "id": "nasi-ayam-saus-hot-spicy",
-          "nama": "Nasi Ayam Saus Hot Spicy",
+          "id": "nasi-ayam-crispy-saus-hot-spicy",
+          "nama": "Nasi Ayam Crispy Saus Hot Spicy",
           "harga": 17000,
           "bestSeller": 3,
           "deskripsi": "Saus hot spicy-nya bikin melek. Cocok buat yang suka tantangan."
@@ -150,13 +155,13 @@
           "harga": 18000
         },
         {
-          "id": "sayap-crispy-saus-sambal",
-          "nama": "Sayap Crispy Saus Sambal",
+          "id": "sayap-crispy-saus-tomat",
+          "nama": "Sayap Crispy Saus Tomat",
           "harga": 10000
         },
         {
-          "id": "sayap-crispy-saus-tomat",
-          "nama": "Sayap Crispy Saus Tomat",
+          "id": "sayap-crispy-saus-cabai",
+          "nama": "Sayap Crispy Saus Cabai",
           "harga": 10000
         }
       ]
